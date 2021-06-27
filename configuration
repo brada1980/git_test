@@ -1,4 +1,4 @@
- # Host
+# Host
 com.instana.plugin.host:
   tags:
     - 'Mikrut_docker_test'
